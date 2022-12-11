@@ -1,0 +1,14 @@
+#navbar a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+}
+
+@media (max-width: 768px) {
+    main{
+        width: auto;
+    }
+}
