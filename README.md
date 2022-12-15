@@ -20,5 +20,6 @@ Here's a list of works:
  12)[ Picasso Painting](https://buraxta.github.io/freeCodeCamp/12_PicassoPainting/index.html)  
  13)[ Building a Piano](https://buraxta.github.io/freeCodeCamp/13_BuildingAPiano/index.html)  
  14)[ Technical Documentation Page](https://buraxta.github.io/freeCodeCamp/14_TechnicalDocumentationPage/index.html)  
- 15)[ City Skyline](https://buraxta.github.io/freeCodeCamp/15_CitySkyline/index.html)
+ 15)[ City Skyline](https://buraxta.github.io/freeCodeCamp/15_CitySkyline/index.html)  
+ 16)[ Magazine](https://buraxta.github.io/freeCodeCamp/16_BuildingAMagazine/index.html)
  
