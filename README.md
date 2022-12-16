@@ -22,5 +22,6 @@ Here's a list of works:
  14)[ Technical Documentation Page](https://buraxta.github.io/freeCodeCamp/14_TechnicalDocumentationPage/index.html)  
  15)[ City Skyline](https://buraxta.github.io/freeCodeCamp/15_CitySkyline/index.html)  
  16)[ Magazine](https://buraxta.github.io/freeCodeCamp/16_BuildingAMagazine/index.html)  
- 17)[ Landing Page](https://buraxta.github.io/freeCodeCamp/17_ProductLandingPage/index.html)
+ 17)[ Landing Page](https://buraxta.github.io/freeCodeCamp/17_ProductLandingPage/index.html)  
+ 18)[ Ferris Wheel](https://buraxta.github.io/freeCodeCamp/18_FerrisWheel/index.html)
  
