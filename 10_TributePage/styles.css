@@ -4,7 +4,14 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     
 }
-
+p{
+    text-align: center;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
 img{
     display: block;
     margin-left: auto;
@@ -14,8 +21,12 @@ main{
     border-radius: 10px;
     background-color: #EEEEEE;
 }
-p{
-    margin-top: 30px;
+#title{
+    font-size: 40px;
+}
+#alt{
+    position: relative;
+    padding: 17px;
     text-align: center;
     
 }
@@ -30,16 +41,35 @@ h1{
     margin-right: 15px;    
 }
 section{
-    margin-top: 50px;
-    display: block;
     text-align: center;
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
-ul{
-    display: flex;
-    flex-direction:column;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    font-size: 30px;
-    padding: 20px;
+ul {
+    display: inline-block;
+    text-align: left;
+}
+ul li{
+    padding-top: 20px;
+}
+span{
+    font-weight: bold;
+}
+#tribute-info{
+    margin-top: 50px;
+}
+blockquote, figcaption{
+    font-size: 20px;
+    margin-left: 0;
+    font-family: Gabriola ;
+    text-align: left;
+    
+}
+#footer{
+    text-align: center;
+    padding: 15px 0;
+    font-size: 20px;
+    font-weight: bold;
 }
