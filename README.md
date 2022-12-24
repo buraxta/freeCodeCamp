@@ -10,7 +10,7 @@ Here's a list of works:
  2)[ Cafe Menu](https://buraxta.github.io/freeCodeCamp/2_CafeMenu/index.html)  
  3)[ Colored Marker](https://buraxta.github.io/freeCodeCamp/3_ColoredMarker/index.html)  
  4)[ Registration Form](https://buraxta.github.io/freeCodeCamp/4_RegistrationForm/index.html)  
- 5)[ Cat Photo App](https://buraxta.github.io/freeCodeCamp/5_SurveyForm/index.html)  
+ 5)[ Survey Form App](https://buraxta.github.io/freeCodeCamp/5_SurveyForm/index.html)  
  6)[ Rothko Painting](https://buraxta.github.io/freeCodeCamp/6_RothkoPainting/index.html)  
  7)[ Photo Gallery](https://buraxta.github.io/freeCodeCamp/7_PhotoGallery/index.html)  
  8)[ Nutrition Label](https://buraxta.github.io/freeCodeCamp/8_NutritionLabel/index.html)  
