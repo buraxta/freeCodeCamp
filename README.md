@@ -1,9 +1,9 @@
-# freeCodeCamp
-In this Responsive Web Design Certification, we'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+# WebDev-Projects
+Hello!
 
-First, we'll build a cat photo app to learn the basics of HTML and CSS. Later, we'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
+This repository contains the projects and learning resources I've been working on at freeCodeCamp. Here, you can find code examples, notes, and more related to web development and other technology areas.
 
-Finally, we'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
+
 
 Here's a list of works:  
  1)[ Cat Photo App](https://buraxta.github.io/freeCodeCamp/1_CatPhotoApp/CatPhotoApp.html)  
